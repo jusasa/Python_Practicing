@@ -1,0 +1,15 @@
+word = str(input())
+word = word.replace("c=", 'c')
+word = word.replace("c-", 'c')
+word = word.replace("dz=", 'z')
+word = word.replace("d-", 'd')
+word = word.replace("lj", 'l')
+word = word.replace("nj", 'n')
+word = word.replace("s=", 's')
+word = word.replace("z=", 'z')
+print(len(word))
+#-------------------------------------------------#
+a=input()
+l=['c=','c-','dz=','d-','lj','nj','s=','z=']
+for i in l:a=a.replace(i,'a')
+print(len(a))
