@@ -142,4 +142,4 @@
 | [25304 - 영수증](https://www.acmicpc.net/problem/25304)                           |
 | [25314 - 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)                  |
 | [27866 - 문자와 문자열](https://www.acmicpc.net/problem/27866)                       |
-
+| [2378 - 행렬 덧셈](https://www.acmicpc.net/problem/2738)                            |
