@@ -12,11 +12,11 @@
 | [1152 - 단어의 개수](https://www.acmicpc.net/problem/1152)                          | [4375 - 1](https://www.acmicpc.net/problem/4375)            |
 | [1157 - 단어공부](https://www.acmicpc.net/problem/1157)                            | [9095 - 1,2,3 더하기](https://www.acmicpc.net/problem/9095)    |
 | [1193 - 분수찾기](https://www.acmicpc.net/problem/1193)                            | [25206 - 너의 평점은](https://www.acmicpc.net/problem/25206)     |
-| [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330)                        |[1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
-| [1546 - 평균](https://www.acmicpc.net/problem/1546)                              |
-| [1550 - 16진수](https://www.acmicpc.net/problem/1550)                            |
-| [1712 - 손익분기점](https://www.acmicpc.net/problem/1712)                           |
-| [1934 - 최소공배수](https://www.acmicpc.net/problem/1934)                           |
+| [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330)                        | [1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316)     
+| [1546 - 평균](https://www.acmicpc.net/problem/1546)                              |                                                             |
+| [1550 - 16진수](https://www.acmicpc.net/problem/1550)                            |                                                             |
+| [1712 - 손익분기점](https://www.acmicpc.net/problem/1712)                           |                                                             |
+| [1934 - 최소공배수](https://www.acmicpc.net/problem/1934)                           ||
 | [2163 - 초콜릿 자르기](https://www.acmicpc.net/problem/2163)                         |
 | [2231 - 분해합](https://www.acmicpc.net/problem/2231)                             |
 | [2292 - 벌집](https://www.acmicpc.net/problem/2292)                              |
@@ -142,4 +142,6 @@
 | [25304 - 영수증](https://www.acmicpc.net/problem/25304)                           |
 | [25314 - 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)                  |
 | [27866 - 문자와 문자열](https://www.acmicpc.net/problem/27866)                       |
-| [2378 - 행렬 덧셈](https://www.acmicpc.net/problem/2738)                            |
+| [2738 - 행렬 덧셈](https://www.acmicpc.net/problem/2738)                           |
+| [2566 - 최댓값](https://www.acmicpc.net/problem/2566)                             |
+| [10798 - 세로읽기](https://www.acmicpc.net/problem/10798)                          |
