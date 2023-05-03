@@ -2,19 +2,19 @@
 
 ***
 
-| 브론즈                                                                            | 실버                                                          | 골드 | 에메랄드 | 다이아 | 루비 |
-|:-------------------------------------------------------------------------------|:------------------------------------------------------------|:---|:-----|:----|:---|
-| [1000 -  A + B](https://www.acmicpc.net/problem/1000)                          | [1010 - 다리놓기](https://www.acmicpc.net/problem/1010)         | -  | -    | -   | -  |
-| [1001 - A - B](https://www.acmicpc.net/problem/1001)                           | [1026 - 보물](https://www.acmicpc.net/problem/1026)           |
-| [1008 - A / B](https://www.acmicpc.net/problem/1008)                           | [1789 - 수들의 합](https://www.acmicpc.net/problem/1789)        |
-| [1037 - 약수](https://www.acmicpc.net/problem/1037)                              | [1193 - 분수찾기](https://www.acmicpc.net/problem/1193)         |
-| [1110 - 더하기 사이클](https://www.acmicpc.net/problem/1110)                         | [2941 - 크로아티아<br>알파벳](https://www.acmicpc.net/problem/2941) |
-| [1152 - 단어의 개수](https://www.acmicpc.net/problem/1152)                          | [4375 - 1](https://www.acmicpc.net/problem/4375)            |
-| [1157 - 단어공부](https://www.acmicpc.net/problem/1157)                            | [9095 - 1,2,3 더하기](https://www.acmicpc.net/problem/9095)    |
-| [1193 - 분수찾기](https://www.acmicpc.net/problem/1193)                            | [25206 - 너의 평점은](https://www.acmicpc.net/problem/25206)     |
-| [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330)                        | [1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316)     
-| [1546 - 평균](https://www.acmicpc.net/problem/1546)                              |                                                             |
-| [1550 - 16진수](https://www.acmicpc.net/problem/1550)                            |                                                             |
+| 브론즈 | 실버 | 골드 | 에메랄드 | 다이아 | 루비 |
+|:-|:-|:-|:-|:-|:-|
+| [1000 -  A + B](https://www.acmicpc.net/problem/1000) | [1010 - 다리놓기](https://www.acmicpc.net/problem/1010) | -  | -    | -   | -  |
+| [1001 - A - B](https://www.acmicpc.net/problem/1001) | [1026 - 보물](https://www.acmicpc.net/problem/1026) |
+| [1008 - A / B](https://www.acmicpc.net/problem/1008) | [1789 - 수들의 합](https://www.acmicpc.net/problem/1789) |
+| [1037 - 약수](https://www.acmicpc.net/problem/1037)| [1193 - 분수찾기](https://www.acmicpc.net/problem/1193) |
+| [1110 - 더하기 사이클](https://www.acmicpc.net/problem/1110) | [2941 - 크로아티아<br>알파벳](https://www.acmicpc.net/problem/2941) |
+| [1152 - 단어의 개수](https://www.acmicpc.net/problem/1152) | [4375 - 1](https://www.acmicpc.net/problem/4375)|
+| [1157 - 단어공부](https://www.acmicpc.net/problem/1157) | [9095 - 1,2,3 더하기](https://www.acmicpc.net/problem/9095) |
+| [1193 - 분수찾기](https://www.acmicpc.net/problem/1193) | [25206 - 너의 평점은](https://www.acmicpc.net/problem/25206) |
+| [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330) | [1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
+| [1546 - 평균](https://www.acmicpc.net/problem/1546) | [2563 - 색종이](https://www.acmicpc.net/problem/2563)
+| [1550 - 16진수](https://www.acmicpc.net/problem/1550) |
 | [1712 - 손익분기점](https://www.acmicpc.net/problem/1712)                           |                                                             |
 | [1934 - 최소공배수](https://www.acmicpc.net/problem/1934)                           ||
 | [2163 - 초콜릿 자르기](https://www.acmicpc.net/problem/2163)                         |
