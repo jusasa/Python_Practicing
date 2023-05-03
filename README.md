@@ -1,6 +1,10 @@
 # 지금 까지 푼 문제
 
 ***
+<details>
+
+<summary> 펼치기 </summary>
+
 
 | 브론즈 | 실버 | 골드 | 에메랄드 | 다이아 | 루비 |
 |:-|:-|:-|:-|:-|:-|
@@ -146,3 +150,4 @@
 | [2566 - 최댓값](https://www.acmicpc.net/problem/2566)                             |
 | [10798 - 세로읽기](https://www.acmicpc.net/problem/10798)                          |
 | [2577 - 숫자의 개수](https://www.acmicpc.net/problem/2577)|
+</details>
