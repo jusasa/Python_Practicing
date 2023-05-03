@@ -150,4 +150,5 @@
 | [2566 - 최댓값](https://www.acmicpc.net/problem/2566)                             |
 | [10798 - 세로읽기](https://www.acmicpc.net/problem/10798)                          |
 | [2577 - 숫자의 개수](https://www.acmicpc.net/problem/2577)|
+| [8958 - OX퀴즈](https://www.acmicpc.net/problem/8958)
 </details>
